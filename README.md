@@ -1,8 +1,8 @@
 
-### BBT - AI komitesi
+# BBT - AI
 
 
-# SQL Hatırlatma Kağıdı
+## SQL Hatırlatma Kağıdı
 
 Bu depoda, kullanım örnekleriyle birlikte tüm ilgili SQL sorgularının hatırlatması bulunmaktadır.
 
