@@ -1,4 +1,6 @@
-<center>### BBT - AI komitesi</center>
+
+### BBT - AI komitesi
+
 
 # SQL Hatırlatma Kağıdı
 
