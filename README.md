@@ -222,7 +222,7 @@ Bu depoda, kullanım örnekleriyle birlikte tüm ilgili SQL sorgularının hatı
   ```
 
 <a name="tetikleyici"></a>
-# 8. Tetikleyici Oluşturma
+# 9. Tetikleyici Oluşturma
 Bir ekleme, güncelleme veya silme işleminden önce veya sonra otomatik olarak çalışan bir kod bloğudur. `old` ve `new` anahtar kelimeleri, tetikleyicinin etkilendiği satırlardaki sütunlara erişmemizi sağlar. Örnek: `new`.sütun_adi
 
 ### **Tetikleyici Oluşturma**:
@@ -243,7 +243,7 @@ Bir ekleme, güncelleme veya silme işleminden önce veya sonra otomatik olarak 
 * `drop trigger if exists` tetikleyici_adi;
 
 <a name="prosedür"></a>
-# 9. Saklı Prosedür Oluşturma
+# 10. Saklı Prosedür Oluşturma
 Saklı prosedürler SQL kodumuzu depolar ve düzenler, daha hızlı yürütme ve veri güvenliği sağlar.
 
 ### **Prosedür Oluşturma**:
@@ -261,7 +261,7 @@ Saklı prosedürler SQL kodumuzu depolar ve düzenler, daha hızlı yürütme ve
 * `drop procedure if exists` prosedür_adi;
 
 <a name="index"></a>
-# 7. Sorgu İndexleme
+# 11. Sorgu İndexleme
 
 ### **OLUŞTURMA**: Bir tabloda indeks oluşturur.
 * `CREATE INDEX` indeks_adi `ON` tablo_adi;
