@@ -1,9 +1,11 @@
-<center>### BBT - Algorithm komitesi</center>
+<center>### BBT - AI komitesi</center>
 
 # SQL Hatırlatma Kağıdı
+
 Bu depoda, kullanım örnekleriyle birlikte tüm ilgili SQL sorgularının hatırlatması bulunmaktadır.
 
-Bu depo sürekli olarak topluluk tarafından güncellenmekte ve eklenmektedir. Pull request'lerinizle katkıda bulunabilirsiniz. İyi kullanımlar!
+İyi kullanımlar!
+
 # İçindekiler 
 1. [Veri Bulma Sorguları.](#bul)
 2. [Veri Değiştirme Sorguları.](#degistir)
